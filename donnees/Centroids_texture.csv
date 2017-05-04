@@ -1,0 +1,23 @@
+Texture.code;Texture;SableCentroid;LimonCentroid;ArgileCentroid
+SG;Sable grossier;93.8;3.3;2.9
+S;Sable;92.7;4.4;2.9
+SF;Sable fin;92.3;4.6;3.1
+STF;Sable tres fin;92.9;4.4;2.7
+SLG;Sable loameux grossier;82.5;11.3;6.2
+SL;Sable loameux;82.5;12.1;5.4
+SLF;Sable loameux fin;81.4;14.4;4.2
+SLTF;Sable loameux tres fin;80.7;11.2;8.1
+LSG;Loam sableux grossier;66.2;20.4;13.4
+LS;Loam sableux;64.5;25;10.5
+LSF;Loam sableux fin;60.4;31.6;8
+LSTF;Loam sableux tres fin;60.2;32.8;7
+L;Loam;42.4;41.1;16.5
+LLi;Loam limoneux;18.2;67;14.8
+Li;Limon;6;88.1;5.9
+LSA;Loam sablo-argileux;55.7;19.9;24.4
+LA;Loam argileux;29.5;38.4;32.1
+LLiA;Loam limono-argileux;7.8;58.1;34.1
+AS;Argile sableuse;50.2;11.2;38.6
+ALi;Argile limoneuse;2.7;48.1;49.2
+A;Argile;11.9;34.9;53.2
+ALo;Argile lourde;1.3;23.9;74.8
