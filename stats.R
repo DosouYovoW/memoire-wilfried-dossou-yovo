@@ -693,10 +693,11 @@ rhs_rdt = prep_nlme_rdt$rhs
 data_mm_rdt = prep_nlme_rdt$scaled
 
 ## Modèle Mitcherlcih
+set.sedd(73562)
 mm_rdt = nlme(Performance.P.Rendement_t.ha ~ Asym * ((1 - exp(-Rate * (doseP + Envi)))),
               data = data_mm_rdt, 
               start = c(Asym = c(9, start_vector_rdt),
-                        Rate = c(0.06, start_vector_rdt),
+                        Rate = c(0.05, start_vector_rdt),
                         Envi = c(80, start_vector_rdt) 
               ), 
               fixed = list(as.formula(paste('Asym ~', rhs_rdt)),
