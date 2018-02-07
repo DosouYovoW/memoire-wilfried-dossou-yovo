@@ -5,9 +5,9 @@ Sol_Al.P;soil_Al.P;soil [Al | P];sol [Al | P]
 SerieSol_G.P;soil_G.P;soil [gley | podzol];sol [gley | podzol]
 SerieSol_LG.SG;soil_LG.SG;soil [loam gley | sandy gley];sol [gley loameux | gley sableux]
 pH;pH;pH;pH
-Texture_C.asS;texture_C.csS;soil [Carbon | clay,silt,Sand];sol [C | c,s,S]
-Texture_a.sS;texture_c.sS;soil [clay | silt,Sand];sol [c | s,S]
-Texture_s.S;texture_s.S;soil [silt | Sand];sol [s | S]
+Texture_C.asS;texture_C.csS;soil [Carbon | clay,silt,Sand];sol [Carbone | argile,limon,sable]
+Texture_a.sS;texture_c.sS;soil [clay | silt,Sand];sol [argile | limon,sable]
+Texture_s.S;texture_s.S;soil [silt | Sand];sol [limon | sable]
 SDI;SDI;SDI;IDS
 UTMc;UTM;CHU;UTM
 tMean;tMean;mean temperature;température moyenne
