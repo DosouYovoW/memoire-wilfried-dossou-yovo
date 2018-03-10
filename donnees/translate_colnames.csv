@@ -1,28 +1,29 @@
 from_name_mm;to_name_mm;to_name_mm_long_en;to_name_mm_long_fr
-Culture.Densite.Plan_plant.ha;seed.density;seeding rate;densitÃ© du semis
+Culture.Densite.Plan_plant.ha;seed.density;seeding rate;densité du semis
 Sol_Fv.AlP;soil_Fv.AlP;soil [Fv | Al,P];sol [Fv | Al,P]
 Sol_Al.P;soil_Al.P;soil [Al | P];sol [Al | P]
 SerieSol_G.P;soil_G.P;soil [gley | podzol];sol [gley | podzol]
 SerieSol_LG.SG;soil_LG.SG;soil [loam gley | sandy gley];sol [gley loameux | gley sableux]
 pH;pH;pH;pH
-Texture_C.asS;texture_C.csS;soil [Carbon | clay,silt,Sand];sol [Carbone | argile,limon,sable]
-Texture_a.sS;texture_c.sS;soil [clay | silt,Sand];sol [argile | limon,sable]
+Texture_C.asS;texture_C.csS;soil [Carbon | clay,silt,Sand];sol [carbone | argile,limon,sable]
+Texture_a.sS;texture_c.sS;soil [clay | silt,Sand];sol [argile | limon,Sable]
 Texture_s.S;texture_s.S;soil [silt | Sand];sol [limon | sable]
 SDI;SDI;SDI;IDS
 UTMc;UTM;CHU;UTM
-tMean;tMean;mean temperature;tempÃ©rature moyenne
-pcpCum;pcpCum;cumulated precipitations;prÃ©cipitations cumulÃ©es
-(Intercept).ranef;(Intercept).ranef;Random effect;Effet alÃ©atoire
+tMean;tMean;mean temperature;température moyenne
+pcpCum;pcpCum;cumulated precipitations;précipitations cumulées
+(Intercept).ranef;(Intercept).ranef;Random effect;Effet aléatoire
 (Intercept);(Intercept);Intercept;Intercept
 doseP;dose P;dose P;dose P
-dose.P_sc;dose P sc;dose P scaled;dose P centrÃ©-rÃ©duit
+dose.P_sc;dose P sc;dose P scaled;dose P centré-réduit
 SDI_.30;SDI_.30;SDI 0-30 days;IDS 0-30 jours
-UTMc_.30;UTM_.30;UTM 0-30 days;UTM 0-30 jours
-Tmean_.30;Tmean_.30;mean temperature 0-30 days;tempÃ©rature moyenne 0-30 jours
-PcpCum_.30;PcpCum_.30;cumulated precipitations 0-30 days;prÃ©cipitations cumulÃ©es 0-30 jours
-Performance.P.HauteurPlant_cm;Performance.P.HauteurPlant_cm;plant height, 5 to 6 leaves;hauteur du plant, 5 Ã  6 feuilles
+UTMc_.30;UTM_.30;CHU 0-30 days;UTM 0-30 jours
+Tmean_.30;Tmean_.30;mean temperature 0-30 days;température moyenne 0-30 jours
+PcpCum_.30;PcpCum_.30;cumulated precipitations 0-30 days;prècipitations cumulées 0-30 jours
+Performance.P.HauteurPlant_cm;Performance.P.HauteurPlant_cm;plant height, 5 to 7 leaves;hauteur du plant, 5 à 7 feuilles
 amendement.organique;amendement.organique;Organic amendments;Amendements organiques
-hp_log.temoin;hp_log.temoin;Plant height response log ratio;Hauteur du plant, log ratio de rÃ©ponse
-(Intercept).ranef;(Intercept).ranef;Random effect on intercept;Effet alÃ©atoire sur l'intercept
-CultureSweet;CultureSweet;Sweet maize;MaÃ¯s sucrÃ©
-CultureSillage;CultureSillage;Sillage maize;MaÃ¯s ensilage
+hp_log.temoin;hp_log.temoin;Plant height response log ratio;Hauteur du plant, log ratio de réponse
+(Intercept).ranef;(Intercept).ranef;Random effect on intercept;Effet aléatoire sur l'intercept
+CultureSweet;CultureSweet;Sweet Corn;Maïs Sucré
+CultureSillage;CultureSillage;Sillage Corn;Maïs Ensilage
+CultureGrain;CultureGrain;Grain;Grain
