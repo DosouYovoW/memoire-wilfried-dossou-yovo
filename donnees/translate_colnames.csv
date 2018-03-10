@@ -24,6 +24,6 @@ Performance.P.HauteurPlant_cm;Performance.P.HauteurPlant_cm;plant height, 5 to 7
 amendement.organique;amendement.organique;Organic amendments;Amendements organiques
 hp_log.temoin;hp_log.temoin;Plant height response log ratio;Hauteur du plant, log ratio de réponse
 (Intercept).ranef;(Intercept).ranef;Random effect on intercept;Effet aléatoire sur l'intercept
-CultureSweet;CultureSweet;Sweet Corn;Maïs Sucré
-CultureSillage;CultureSillage;Sillage Corn;Maïs Ensilage
+Maïs Sucré;Sweet Corn;Sweet Corn;Maïs Sucré
+Maïs Ensilage;Sillage Corn;Sillage Corn;Maïs Ensilage
 CultureGrain;CultureGrain;Grain;Grain
